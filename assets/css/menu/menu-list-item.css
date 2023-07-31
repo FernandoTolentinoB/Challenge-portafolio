@@ -1,0 +1,20 @@
+.menu__list__item {
+    padding-right: 1.2rem;
+}
+.menu__list__item:hover {
+    text-decoration: underline;
+    color: rgb(4, 4, 108);
+    font-size: 1.1rem;
+}
+
+.menu__list__item a:hover{
+    color: rgb(4, 4, 108);
+}
+
+@media (max-width: 768px) {
+    .menu__list__item{
+        background-color: rebeccapurple;
+        display: none;
+    }
+
+}

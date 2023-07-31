@@ -1,0 +1,17 @@
+.menu {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    color: var(--negro);
+    margin: 1.37rem 5rem 1rem 5rem;
+    padding: 2rem 0;
+}
+
+@media (max-width: 768px) {
+    .menu{
+        margin: 1rem 2rem 1rem 2rem;
+        background-color: aqua;
+    }
+
+}
+

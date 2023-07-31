@@ -1,0 +1,7 @@
+.academic__courses__box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+  
+}

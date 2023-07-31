@@ -1,0 +1,14 @@
+.about__paragraph {
+    font-size: 16px;
+    justify-content: baseline;
+    align-items: flex-start;
+    
+}
+
+@media (max-width: 768px) {
+    .about__paragraph{
+        width: 680px;
+        align-self: stretch;
+    
+    }
+}

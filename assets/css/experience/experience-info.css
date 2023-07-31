@@ -1,0 +1,7 @@
+.experience__info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}

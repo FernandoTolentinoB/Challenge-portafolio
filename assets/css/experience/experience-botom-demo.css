@@ -1,0 +1,10 @@
+.experience__botao--demo {
+    background-color: var(--azul-100);
+    padding: 1rem;
+    font-size: 16px;
+    color: var(--blanco);
+    border: none;
+    width: 105px;
+    height: 51px;
+    
+}

@@ -1,0 +1,8 @@
+.formcontato__botao {
+    background-color: var(--azul-100);
+    color: var(--blanco);
+    padding: 16px;
+    width: 144px;
+    height: 51px;
+    border: none;
+}

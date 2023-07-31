@@ -1,0 +1,17 @@
+.about__container img {
+    height: 100px; 
+    background-color: var(--background-celeste);
+}
+
+.about__container{
+    width: 46.9375rem;
+    padding-left: 5rem;
+}
+
+@media (max-width: 768px) {
+    .about__container{
+        width: 100vh;
+        padding-left: 2rem;
+    
+    }
+}

@@ -1,0 +1,15 @@
+.title__bio{
+    color: var(--color-letra);
+    font-size: 45px;
+    margin-top: 45px;
+    width: 46.9375rem;
+}
+
+@media (max-width: 768px) {
+    .title__bio{
+        font-size: 22px;
+        width: 70vh;
+        flex-shrink: 2;
+    
+    }
+}

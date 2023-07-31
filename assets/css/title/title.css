@@ -1,0 +1,13 @@
+.title {
+    margin: 2rem 5rem;
+}
+
+@media (max-width: 768px) {
+    .title {
+       display: flex;
+       margin:2rem;
+       flex-wrap: wrap;
+       width: 100vh;
+
+    }
+}

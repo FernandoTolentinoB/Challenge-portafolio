@@ -1,0 +1,16 @@
+.about {
+    background-color: var(--background-celeste);
+    color: var(--color-letra);
+    display: flex;
+    flex-direction: column;
+    margin-top: 3rem;
+    padding: 4rem 0;
+
+}
+
+@media (max-width: 768px) {
+    .about {
+        width: 100%;
+    
+    }
+}

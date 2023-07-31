@@ -1,0 +1,8 @@
+.skills__line {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: calc(90% - 1rem);
+    padding: 0 5rem;
+      
+}

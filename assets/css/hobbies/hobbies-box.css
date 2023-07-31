@@ -1,0 +1,8 @@
+.hobbies__box{
+    justify-content: space-between;
+    background-color: var(--blanco);
+    width: 176px;
+    height: 174px;
+    margin: 0.5rem;
+    
+}

@@ -1,0 +1,5 @@
+.menu__list {
+    display: flex;
+    color: var(--color-letra-menu);
+    
+}

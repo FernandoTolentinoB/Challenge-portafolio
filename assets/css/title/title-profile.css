@@ -1,0 +1,11 @@
+.title__profile{
+    height: 368px;
+}
+
+@media (max-width: 768px) {
+    .title__profile{
+       width: 30vh;
+       height: 146px;
+       padding-top: 2.5rem;
+    }
+}

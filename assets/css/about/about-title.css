@@ -1,0 +1,11 @@
+.about__title{
+    font-size: 32px;
+    color: var(--negro);
+}
+
+@media (max-width: 768px) {
+    .about__title{
+        font-size: 22px;
+    
+    }
+}
