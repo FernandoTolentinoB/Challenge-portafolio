@@ -5,3 +5,9 @@
     height: 174px;
     margin: 0.5rem;
 }
+
+@media (max-width: 768px) {
+    .skills__box {
+        height: 8rem;
+    }
+}
