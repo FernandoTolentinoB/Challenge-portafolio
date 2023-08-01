@@ -1,3 +1,10 @@
 .menu__list__item__contato{
     font-weight: bold;
 }
+@media (max-width: 768px){
+    .menu__list__item__contato{
+        font-weight: 400;
+        font-size: 14px;
+        color: var(--color-letra);
+    {
+}

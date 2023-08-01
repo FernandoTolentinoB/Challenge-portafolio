@@ -7,8 +7,9 @@
 
 @media (max-width: 768px) {
     .about__paragraph{
-        width: 680px;
-        align-self: stretch;
-    
+        width: 40%;
+        font-size: 14px;
+        font-weight: 400;
+      
     }
 }

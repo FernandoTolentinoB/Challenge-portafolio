@@ -10,6 +10,6 @@
     .title__network{
         justify-content: space-between;
         flex-shrink: 2;
-        padding-right: 3rem;
+        padding-right: 4rem;
     }
 }

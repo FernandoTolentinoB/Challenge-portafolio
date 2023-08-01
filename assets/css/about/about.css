@@ -11,6 +11,7 @@
 @media (max-width: 768px) {
     .about {
         width: 100%;
-    
+        padding: 1rem 0;
+        margin-top: 0;  
     }
 }
