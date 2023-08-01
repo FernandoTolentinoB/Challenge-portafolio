@@ -8,7 +8,7 @@
 @media (max-width: 768px) {
     .title__bio{
         font-size: 22px;
-        width: 70vh;
+        width: 95%;
         flex-shrink: 2;
     
     }
