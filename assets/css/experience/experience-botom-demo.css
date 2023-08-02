@@ -6,5 +6,12 @@
     border: none;
     width: 105px;
     height: 51px;
-    
+}
+
+@media (max-width: 768px){
+    .experience__botao--demo{
+        padding: 0.5rem;
+        width: 105px;
+        height: 40px;
+    }
 }

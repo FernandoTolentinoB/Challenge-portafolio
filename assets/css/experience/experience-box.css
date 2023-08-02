@@ -3,3 +3,23 @@
     padding-left: 5rem;
     padding-top: 4rem;
 }
+.experiencie__box2 {
+    display: flex;
+    padding-left: 5rem;
+    padding-top: 4rem;
+}
+
+@media (max-width: 768px){
+    .experiencie__box{
+       flex-direction: column;
+       padding: 0%;
+       align-items: center;
+    }
+    .experiencie__box2{
+        display: flex;
+        flex-direction: column-reverse;
+        padding: 0%;
+        align-items: center;
+        margin: 1rem 0;
+     }
+}

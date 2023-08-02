@@ -2,3 +2,9 @@
     width: 100%;
     margin: 5.5rem 0;
 }
+
+@media (max-width: 768px) {
+    .hobbies {
+        margin: 1rem 0;
+    }
+}

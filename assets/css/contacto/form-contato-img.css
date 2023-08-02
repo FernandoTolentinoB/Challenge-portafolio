@@ -2,3 +2,9 @@
     width: 464px;
     height: 593px;
 }
+
+@media (max-width: 768px){
+    .formcontato__img{
+        display: none;
+    }
+}

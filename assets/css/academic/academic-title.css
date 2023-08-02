@@ -6,4 +6,8 @@
     font-family: raleway sans-serif;
     
 }
-
+@media (max-width: 768px){
+    .academic__title{
+        margin-top: 0;
+    }
+}

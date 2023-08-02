@@ -2,3 +2,9 @@
     padding: 4rem;
     background-color: var(--background-celeste);
 }
+
+@media (max-width: 768px){
+    .formcontato{
+        padding: 2rem 2rem;
+    }
+}

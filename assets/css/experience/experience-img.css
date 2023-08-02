@@ -4,3 +4,10 @@
     border-radius: 5px;
 
 }
+@media (max-width: 768px){
+    .experience__img{
+        width: 90%;
+        height: 100%;
+        
+    }
+}

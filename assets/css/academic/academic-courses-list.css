@@ -1,0 +1,6 @@
+@media (max-width: 768px) {
+    .academic__courses__list {
+        width: 100%;
+        padding: 0%;
+    }
+}

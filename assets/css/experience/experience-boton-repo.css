@@ -7,3 +7,11 @@
     height: 51px;
     
 }
+@media (max-width: 768px){
+    .experiencia__botao--repo{
+        margin-right: 1rem;
+        padding: 0.5rem;
+        width: 105px;
+        height: 40px;
+    }
+}

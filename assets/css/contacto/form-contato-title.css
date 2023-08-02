@@ -3,3 +3,8 @@
     color: var(--negro);
     margin:0 0 0.5rem 0;
 }
+@media (max-width: 768px){
+    .formcontato__title{
+        font-size: 1.4rem;
+    }
+}
